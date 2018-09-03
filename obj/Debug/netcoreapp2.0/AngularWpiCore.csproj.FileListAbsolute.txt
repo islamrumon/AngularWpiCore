@@ -1,0 +1,11 @@
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\bin\Debug\netcoreapp2.0\AngularWpiCore.deps.json
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\bin\Debug\netcoreapp2.0\AngularWpiCore.runtimeconfig.json
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\bin\Debug\netcoreapp2.0\AngularWpiCore.runtimeconfig.dev.json
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\bin\Debug\netcoreapp2.0\AngularWpiCore.dll
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\obj\Debug\netcoreapp2.0\AngularWpiCore.csprojAssemblyReference.cache
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\obj\Debug\netcoreapp2.0\AngularWpiCore.csproj.CoreCompileInputs.cache
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\obj\Debug\netcoreapp2.0\AngularWpiCore.AssemblyInfoInputs.cache
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\obj\Debug\netcoreapp2.0\AngularWpiCore.AssemblyInfo.cs
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\bin\Debug\netcoreapp2.0\AngularWpiCore.pdb
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\obj\Debug\netcoreapp2.0\AngularWpiCore.dll
+C:\Users\rumon\Documents\Visual Studio 2017\Projects\AngularWpiCore\AngularWpiCore\obj\Debug\netcoreapp2.0\AngularWpiCore.pdb
